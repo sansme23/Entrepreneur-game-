@@ -7,11 +7,7 @@ body{
 .spiller{
     height: 80px;
     width: 80px;
-<<<<<<< HEAD
-    
-=======
-    border-style: dashed;
->>>>>>> 75a0476d5eb5e64de5efc2f781089f50a386040e
+    list-style-position: ;
     color: aliceblue;
-    background-color: aliceblue;
+    
 }
