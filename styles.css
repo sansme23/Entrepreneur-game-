@@ -7,7 +7,7 @@ body{
 .spiller{
     height: 80px;
     width: 80px;
-    list-style-position: ;
+    position: center;
     color: aliceblue;
     background-color: aliceblue;
     
