@@ -5,7 +5,8 @@ body{
 }
 
 .spiller{
-    height: 40px;
-    width: 40px;
+    height: 100px;
+    width: 100px;
     color: aliceblue;
+    background-color: aliceblue;
 }
